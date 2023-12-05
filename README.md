@@ -38,11 +38,11 @@ All content and materials in the journey of a computer science student.
   - There are 3 sections for every course, which are: Material, Schedule, and Previous Exams.
   - ![image](https://github.com/DevAbdoTolba/theday/assets/100101090/7d58156f-8662-44ab-83b9-0175e88d18b3)
 
-  - Every page in the courses has many sections in the Material section. For example, in the computer architecture course, we have sections, whitenning, lectures, online sections, and online lectures. Each section has 4 main items:
+  - Every page in the courses has many sections in the Material section. For example, in the computer architecture course, we have sections, whitening, lectures, online sections, and online lectures. Each section has 4 main items:
     - Title
     - Go-to drive button (which leads to the drive folder from which the data came)
     - Items themselves
-    - Horzintal scroll bar
+    - Horizontal scroll bar
   - Every item has 4 main functionalities:
     - On hover, display the whole name.
     - On click, open the file.
